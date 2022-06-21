@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "127041842125",
+    "project_id": "bwa-cozy",
+    "storage_bucket": "bwa-cozy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127041842125:android:d7905557fac056570c3284",
+        "android_client_info": {
+          "package_name": "com.example.bwa_cozy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127041842125-rrm0usfeg02im22ih78k88t0u68tjk4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8JyUXCH1DoEusddWAjnjQ6FfHTx9iqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127041842125-rrm0usfeg02im22ih78k88t0u68tjk4n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127041842125-5jfm3bvsh7fova073nnh7t7mngtrbfvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bwaCozy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127041842125:android:b71d83b04b61641b0c3284",
+        "android_client_info": {
+          "package_name": "com.rifqieh.bwacozy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127041842125-rrm0usfeg02im22ih78k88t0u68tjk4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8JyUXCH1DoEusddWAjnjQ6FfHTx9iqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127041842125-rrm0usfeg02im22ih78k88t0u68tjk4n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127041842125-5jfm3bvsh7fova073nnh7t7mngtrbfvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bwaCozy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
